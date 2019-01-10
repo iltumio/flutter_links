@@ -35,7 +35,7 @@
 
 ### Geolocation, geocoding and integration with maps[https://medium.com/swlh/working-with-geolocation-and-geocoding-in-flutter-and-integration-with-maps-16fb0bc35ede](https://medium.com/swlh/working-with-geolocation-and-geocoding-in-flutter-and-integration-with-maps-16fb0bc35ede)
 
-### DAZZA alternative Flutter Router based on Fluro 
+### DAZZA, an alternative Flutter Router derived from Fluro 
 [https://github.com/theyakka/dazza/blob/master/README.md](https://github.com/theyakka/dazza/blob/master/README.md)
 
 ### An Simple Email validator
