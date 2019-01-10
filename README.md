@@ -33,9 +33,10 @@
 ### Authenticate with biometrics
 [https://medium.com/flutterpub/fingerprint-authentication-in-flutter-8fc14455c8a9](https://medium.com/flutterpub/fingerprint-authentication-in-flutter-8fc14455c8a9)
 
-### Geolocation, geocoding and integration with maps[https://medium.com/swlh/working-with-geolocation-and-geocoding-in-flutter-and-integration-with-maps-16fb0bc35ede](https://medium.com/swlh/working-with-geolocation-and-geocoding-in-flutter-and-integration-with-maps-16fb0bc35ede)
+### Geolocation, geocoding and integration with maps
+[https://medium.com/swlh/working-with-geolocation-and-geocoding-in-flutter-and-integration-with-maps-16fb0bc35ede](https://medium.com/swlh/working-with-geolocation-and-geocoding-in-flutter-and-integration-with-maps-16fb0bc35ede)
 
-### DAZZA, an alternative Flutter Router derived from Fluro 
+### DAZZA, an alternative Flutter Router derived from Fluro
 [https://github.com/theyakka/dazza/blob/master/README.md](https://github.com/theyakka/dazza/blob/master/README.md)
 
 ### An Simple Email validator
