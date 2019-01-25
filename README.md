@@ -23,20 +23,17 @@
 [https://medium.com/flutter-community/a-simple-pair-game-made-with-flutter-a-custom-library-and-the-tunnel-pattern-52e03584f1d1](https://medium.com/flutter-community/a-simple-pair-game-made-with-flutter-a-custom-library-and-the-tunnel-pattern-52e03584f1d1)
 
 ### App store example
-[https://github.com/KingWu/flutter_starter_kit]
-(https://github.com/KingWu/flutter_starter_kit)
+[https://github.com/KingWu/flutter_starter_kit](https://github.com/KingWu/flutter_starter_kit)
 
 ### Create minesweeper with Flutter
-[https://medium.com/flutter-community/creating-minesweeper-in-flutter-12c74486324f]
-(https://medium.com/flutter-community/creating-minesweeper-in-flutter-12c74486324f)
+[https://medium.com/flutter-community/creating-minesweeper-in-flutter-12c74486324f](https://medium.com/flutter-community/creating-minesweeper-in-flutter-12c74486324f)
 
 ## UI
 ### Apple Music style UI in Flutter
 [https://medium.com/@aidanmccomas2_43918/apple-music-ui-in-flutter-49f26e3e2fbe](https://medium.com/@aidanmccomas2_43918/apple-music-ui-in-flutter-49f26e3e2fbe)
 
 ### Banking account UI sample
-[https://medium.com/@afegbua/flutter-thursday-06-banking-app-account-ui-b3526802b476]
-(https://medium.com/@afegbua/flutter-thursday-06-banking-app-account-ui-b3526802b476)
+[https://medium.com/@afegbua/flutter-thursday-06-banking-app-account-ui-b3526802b476](https://medium.com/@afegbua/flutter-thursday-06-banking-app-account-ui-b3526802b476)
 
 ### Container
 [https://medium.com/flutter-community/flutters-container-this-ain-t-your-daddy-s-div-100817339610](https://medium.com/flutter-community/flutters-container-this-ain-t-your-daddy-s-div-100817339610)
@@ -50,17 +47,14 @@
 [https://medium.com/flutter-community/let-me-help-you-to-understand-and-choose-a-state-management-solution-for-your-app-9ffeac834ee3](https://medium.com/flutter-community/let-me-help-you-to-understand-and-choose-a-state-management-solution-for-your-app-9ffeac834ee3)
 
 ### Inherited Widget
-[https://medium.com/flutter-io/managing-flutter-application-state-with-inheritedwidgets-1140452befe1]
-(https://medium.com/flutter-io/managing-flutter-application-state-with-inheritedwidgets-1140452befe1)
+[https://medium.com/flutter-io/managing-flutter-application-state-with-inheritedwidgets-1140452befe1](https://medium.com/flutter-io/managing-flutter-application-state-with-inheritedwidgets-1140452befe1)
 
 ## Firebase Integration
 ### Cooking Firebase dynamic links in Flutter
-[https://medium.com/flutter-community/if-you-want-to-make-your-product-popular-the-strategy-of-mouth-publicity-is-unavoidable-part-of-9da78ea32e79]
-(https://medium.com/flutter-community/if-you-want-to-make-your-product-popular-the-strategy-of-mouth-publicity-is-unavoidable-part-of-9da78ea32e79)
+[https://medium.com/flutter-community/if-you-want-to-make-your-product-popular-the-strategy-of-mouth-publicity-is-unavoidable-part-of-9da78ea32e79](https://medium.com/flutter-community/if-you-want-to-make-your-product-popular-the-strategy-of-mouth-publicity-is-unavoidable-part-of-9da78ea32e79)
 
 ### Firebase + BLoC Pattern
-[https://medium.com/flutter-community/if-you-want-to-make-your-product-popular-the-strategy-of-mouth-publicity-is-unavoidable-part-of-9da78ea32e79]
-(https://medium.com/flutter-community/if-you-want-to-make-your-product-popular-the-strategy-of-mouth-publicity-is-unavoidable-part-of-9da78ea32e79)
+[https://medium.com/flutter-community/if-you-want-to-make-your-product-popular-the-strategy-of-mouth-publicity-is-unavoidable-part-of-9da78ea32e79](https://medium.com/flutter-community/if-you-want-to-make-your-product-popular-the-strategy-of-mouth-publicity-is-unavoidable-part-of-9da78ea32e79)
 
 ## Other useful and interesting links
 
@@ -80,12 +74,10 @@
 [https://medium.com/flutter-community/dart-equatable-package-simplify-equality-comparisons-1a96a3fc4864](https://medium.com/flutter-community/dart-equatable-package-simplify-equality-comparisons-1a96a3fc4864)
 
 ### Kotlin like collections for Flutter
-[https://medium.com/flutter-community/kt-dart-better-collections-for-your-flutter-business-logic-41886ab7883]
-(https://medium.com/flutter-community/kt-dart-better-collections-for-your-flutter-business-logic-41886ab7883)
+[https://medium.com/flutter-community/kt-dart-better-collections-for-your-flutter-business-logic-41886ab7883](https://medium.com/flutter-community/kt-dart-better-collections-for-your-flutter-business-logic-41886ab7883)
 
 ### How Developers and Designers Can Collaborate Using Flutter
-[https://medium.com/fm-stories/how-developers-and-designers-can-collaborate-using-flutter-35b3e49046ca]
-(https://medium.com/fm-stories/how-developers-and-designers-can-collaborate-using-flutter-35b3e49046ca)
+[https://medium.com/fm-stories/how-developers-and-designers-can-collaborate-using-flutter-35b3e49046ca](https://medium.com/fm-stories/how-developers-and-designers-can-collaborate-using-flutter-35b3e49046ca)
 
 ### Work with canvas
 [https://medium.com/flutteropen/canvas-tutorial-05-how-to-use-the-gesture-with-the-custom-painter-in-the-flutter-3fc4c2deca06](https://medium.com/flutteropen/canvas-tutorial-05-how-to-use-the-gesture-with-the-custom-painter-in-the-flutter-3fc4c2deca06)
