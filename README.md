@@ -28,6 +28,9 @@
 ### Create minesweeper with Flutter
 [https://medium.com/flutter-community/creating-minesweeper-in-flutter-12c74486324f](https://medium.com/flutter-community/creating-minesweeper-in-flutter-12c74486324f)
 
+### Creating solitaire in flutter
+[https://medium.com/flutter-community/creating-solitaire-in-flutter-946c34ef053c](https://medium.com/flutter-community/creating-solitaire-in-flutter-946c34ef053c)
+
 ## UI
 ### Apple Music style UI in Flutter
 [https://medium.com/@aidanmccomas2_43918/apple-music-ui-in-flutter-49f26e3e2fbe](https://medium.com/@aidanmccomas2_43918/apple-music-ui-in-flutter-49f26e3e2fbe)
@@ -35,8 +38,17 @@
 ### Banking account UI sample
 [https://medium.com/@afegbua/flutter-thursday-06-banking-app-account-ui-b3526802b476](https://medium.com/@afegbua/flutter-thursday-06-banking-app-account-ui-b3526802b476)
 
+### How I developed SpaceX GO! using Flutter
+[https://medium.com/flutter-community/how-i-developed-spacex-go-using-flutter-aa66e9bf14c3](https://medium.com/flutter-community/how-i-developed-spacex-go-using-flutter-aa66e9bf14c3)
+
+### Slack redesign
+[https://hackernoon.com/flutter-slack-redesign-challenge-what-i-learnt-from-it-ef3719fa1d3f](https://hackernoon.com/flutter-slack-redesign-challenge-what-i-learnt-from-it-ef3719fa1d3f)
+
 ### Container
 [https://medium.com/flutter-community/flutters-container-this-ain-t-your-daddy-s-div-100817339610](https://medium.com/flutter-community/flutters-container-this-ain-t-your-daddy-s-div-100817339610)
+
+### Row & column
+[https://medium.com/flutteropen/flutter-widgets-04-row-column-7a9d8062b472](https://medium.com/flutteropen/flutter-widgets-04-row-column-7a9d8062b472)
 
 ## Native Code
 ### How to integrate native code in flutter apps
@@ -48,6 +60,19 @@
 
 ### Inherited Widget
 [https://medium.com/flutter-io/managing-flutter-application-state-with-inheritedwidgets-1140452befe1](https://medium.com/flutter-io/managing-flutter-application-state-with-inheritedwidgets-1140452befe1)
+
+### Code sharing with BLoC
+[https://medium.com/flutter-community/code-sharing-with-bloc-b867302c18ef](https://medium.com/flutter-community/code-sharing-with-bloc-b867302c18ef)
+
+## Animations
+### How to build a responsive House with flutter and flare
+[https://medium.com/2dimensions/building-a-responsive-house-with-flare-flutter-31af823ba805](https://medium.com/2dimensions/building-a-responsive-house-with-flare-flutter-31af823ba805)
+
+### Animated opacity
+[https://medium.com/flutter-community/flutter-animated-series-animated-opacity-c11137883a8d](https://medium.com/flutter-community/flutter-animated-series-animated-opacity-c11137883a8d)
+
+### Sprite animations
+[https://medium.com/flutter-community/sprite-sheet-animations-in-flutter-1b693630bfb3](https://medium.com/flutter-community/sprite-sheet-animations-in-flutter-1b693630bfb3)
 
 ## Firebase Integration
 ### Cooking Firebase dynamic links in Flutter
@@ -84,3 +109,12 @@
 
 ### Animated containers
 [https://medium.com/flutter-community/flutter-animated-series-animated-containers-52a5d52c0ad3](https://medium.com/flutter-community/flutter-animated-series-animated-containers-52a5d52c0ad3)
+
+### How to rebuild the entire app to change the theme or locale
+[https://hillelcoren.com/2018/08/15/flutter-how-to-rebuild-the-entire-app-to-change-the-theme-or-locale/](https://hillelcoren.com/2018/08/15/flutter-how-to-rebuild-the-entire-app-to-change-the-theme-or-locale/)
+
+### Flutter dart tips
+[https://github.com/ibhavikmakwana/FlutterDartTips/blob/master/README.md](https://github.com/ibhavikmakwana/FlutterDartTips/blob/master/README.md)
+
+### Dart linting
+[https://medium.com/flutter-community/watch-your-code-dart-flutter-lint-55a697d01c8d](https://medium.com/flutter-community/watch-your-code-dart-flutter-lint-55a697d01c8d)
