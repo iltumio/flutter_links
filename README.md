@@ -50,6 +50,9 @@
 ### Row & column
 [https://medium.com/flutteropen/flutter-widgets-04-row-column-7a9d8062b472](https://medium.com/flutteropen/flutter-widgets-04-row-column-7a9d8062b472)
 
+### SVG
+[https://medium.com/flutter-community/using-svg-in-flutter-3dcf7b1dd713](https://medium.com/flutter-community/using-svg-in-flutter-3dcf7b1dd713)
+
 ## Native Code
 ### How to integrate native code in flutter apps
 [https://blog.solutelabs.com/integrating-third-party-native-sdks-in-flutter-df418829dcf7](https://blog.solutelabs.com/integrating-third-party-native-sdks-in-flutter-df418829dcf7)
@@ -63,6 +66,9 @@
 
 ### Code sharing with BLoC
 [https://medium.com/flutter-community/code-sharing-with-bloc-b867302c18ef](https://medium.com/flutter-community/code-sharing-with-bloc-b867302c18ef)
+
+### Infinite ListView with Redux
+[https://medium.com/flutter-community/flutter-redux-infinite-listview-b57e81ca4ef4](https://medium.com/flutter-community/flutter-redux-infinite-listview-b57e81ca4ef4)
 
 ## Animations
 ### How to build a responsive House with flutter and flare
