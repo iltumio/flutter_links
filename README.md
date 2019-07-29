@@ -98,7 +98,7 @@
 ### DAZZA, an alternative Flutter Router derived from Fluro
 [https://github.com/theyakka/dazza/blob/master/README.md](https://github.com/theyakka/dazza/blob/master/README.md)
 
-### An Simple Email validator
+### A Simple Email validator
 [https://github.com/fredeil/email-validator.dart](https://github.com/fredeil/email-validator.dart)
 
 ### Dart Equatable, a Library that ovverrides == operator in order to compare different instances of objects
