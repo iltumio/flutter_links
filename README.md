@@ -1,3 +1,6 @@
+# @deprecated
+> This repository is no longer maintained. If you are interested into Flutter resources you can have a look at [Awesome Flutter](https://github.com/Solido/awesome-flutter) repo that also contains a list of articles and tutorials.
+
 # Flutter Links
 > Just a collection of useful and interesting links about the amazing Flutter world.
 ---
